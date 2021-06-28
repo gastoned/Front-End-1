@@ -1,3 +1,40 @@
 header {
     background-color: #E5E5E5;
+    text-align: center;
+}
+main {
+    width: 1041px;
+    font-size: 15px ;
+    line-height: 12,7px;
+}
+h1, h2 {
+    align-content: center;
+    height: 30px;
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    line-height: 12,7px;
+}
+h1 {
+    height: 60px;
+    letter-spacing: 0.3cm;
+    font-size: 35px;
+}
+.indicadores {
+    font-weight: bold;
+}
+.indicadores1{
+    font-weight: bold;
+    font-style: italic;
+}
+ul, dl {
+    line-height: 12,7px;
+}
+footer {
+    background-color: #005677;
+    color: white;
+    height: 37px;
+    text-align: center;
+    font-style: 20px;
+    align-content: center;
 }
